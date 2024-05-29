@@ -3,6 +3,8 @@
 void print1();
 void print2();
 
+void print4();
+
 int main {
 
 print1();
