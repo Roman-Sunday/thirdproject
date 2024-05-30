@@ -7,7 +7,7 @@ void print3();
 int main {
 
 print1();
-std::cout << "change one";
+std::cout << "change two";
 
 }
 
