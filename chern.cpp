@@ -15,6 +15,7 @@ print1();
 
 
 void print1(){
+    std::cout << f1;
+    std::cout << "function print";
 
-    std::cout << "function print"
 }
