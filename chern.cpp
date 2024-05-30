@@ -16,4 +16,5 @@ print1();
 void print1(){
 
     std::cout << "function print"
+        std:: cout << f2;
 }
